@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WareIsMyMind.FluentConstruction", "WareIsMyMind.FluentConstruction\WareIsMyMind.FluentConstruction.csproj", "{0D77AE46-F649-4433-948D-C9996B8C4564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WareIsMyMind.FluentConstruction.UnitTests", "WareIsMyMind.FluentConstruction.UnitTests\WareIsMyMind.FluentConstruction.UnitTests.csproj", "{2253841B-3B0D-42D6-83F4-E1D2DA66C71D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D77AE46-F649-4433-948D-C9996B8C4564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D77AE46-F649-4433-948D-C9996B8C4564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D77AE46-F649-4433-948D-C9996B8C4564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D77AE46-F649-4433-948D-C9996B8C4564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2253841B-3B0D-42D6-83F4-E1D2DA66C71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2253841B-3B0D-42D6-83F4-E1D2DA66C71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2253841B-3B0D-42D6-83F4-E1D2DA66C71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2253841B-3B0D-42D6-83F4-E1D2DA66C71D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
